@@ -8,6 +8,7 @@ Este juego no requiere de otra aplicacion para abrirse, unicamente puedes ver el
 Jose David Ruiz Perez:
 Jodaru234@gmail.com
 Josed.ruiz@upb.edu.co
+
 Daniela Valencia Daza
 dannyvalenciadaza07@gmail.com
 Daniela.valenciad@upb.edu.co
