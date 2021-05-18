@@ -6,9 +6,9 @@ Este juego no requiere de otra aplicacion para abrirse, unicamente puedes ver el
 
 # Autores (también puedes revisar los créditos en el juego)
 Jose David Ruiz Perez:
-Jodaru234@gmail.com
+Jodaru234@gmail.com ///
 Josed.ruiz@upb.edu.co
 
 Daniela Valencia Daza
-dannyvalenciadaza07@gmail.com
+dannyvalenciadaza07@gmail.com ///
 Daniela.valenciad@upb.edu.co
