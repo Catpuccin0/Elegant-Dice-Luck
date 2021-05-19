@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Cómo Jugar</title>
+	<link rel="stylesheet" href="css/main.css">
+	<h2 id="titulo"> ¿Cómo Se Juega? </h2>
+
+
+</head>
+<style>
+.p1 {
+  font-family: ucida Calligraphy, Helvetica, sans-serif;
+}
+
+.p2 {
+  font-family: Lucida Calligraphy, Helvetica, sans-serif;
+}
+
+.p3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+</style>
+<body>
+	<div class="subtitulo">
+
+	<p>Bienvenido a Elegant Dice, preparate para sentir la adrenalina de estar a 1 movimiento de tener una fortuna en tus manos...</p>
+	<p> </p>
+	<p> </p>
+	</div>
+
+	<div class="contenido">
+
+    <p>1. Si en tu primer turno obtienes un 7 o un 11, vencerás.</p>
+    <p>2. Si en tu primer tiro obtienes un 2, un 3 o un 12, morirás.</p>
+    <p>3. Si en el primer tiro obtienes cualquier otro valor (4, 5, 6, 8, 9 ó 10) te habrás salvado, pero solo por ahora. Este número será tu Punto.</p>
+    <p>4. Si sobrevives al primer turno entrarás en disputa. Entonces deberás sacar el número que es tu Punto antes de que salga un 7.</p>
+    <p>5. Si lográs sacar tu Punto antes del 7, Habras optenido tu fortuna soñada.</p>
+    <p>6. Si luego de establecer tu Punto, sacas un 7 antes de sacar el mismo número que tu punto, no obstendras nada.</p>
+    <p> </p>
+	<div class="otros">
+		<p><a href="index.html"> Volver </a></p>
+	</div>
+ 	</div>
+</body>
+</html>
